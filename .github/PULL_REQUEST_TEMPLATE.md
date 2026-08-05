@@ -7,7 +7,7 @@ FAILURE TO COMPLETE ALL REQUIREMENTS WILL RESULT IN A DENIAL OF YOUR PR!
 <!-- Your domain MUST pass ALL the requirements below, otherwise it WILL BE DENIED. -->
 <!-- Change each checkbox to [x] (all lowercase, with no spaces between the brackets) to mark it as completed. -->
 
-- [ ] I **agree** to the [Terms of Service](https://is-a.dev/terms). <!-- Your request MUST follow the TOS to be approved. NOTE: In the TOS it says bots/AI agents, etc. are not allowed, however this is not applicable for is-a.bot. -->
+- [ ] I **agree** to the [Terms of Service](https://is-a.dev/terms). <!-- Your request MUST follow the TOS to be approved. NOTE: We do permit Discord bots, AI chatbots, etc. on is-a.bot subdomains. -->
 - [ ] My file is following the [domain structure](https://docs.is-a.dev/domain-structure/). <!-- Your file is in the domains directory, the name is valid, it is JSON format, etc. -->
 - [ ] My website is **reachable** and **completed**. <!-- We do not permit simple "Hello, world!" or simply copied template websites with minimal changes. -->
 - [ ] My website is **bot** related. <!-- We do not accept websites such as gaming, courses, portfolios, etc. NOTE: Only your root subdomain needs to meet this requirement. -->
