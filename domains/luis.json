@@ -6,5 +6,5 @@
   "records": {
     "CNAME": "luis-web.pages.dev"
   },
-  "proxied": true
+  "proxied": false
 }
