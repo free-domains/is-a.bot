@@ -42,6 +42,8 @@ t("Domains with proxy enabled must have at least one proxy-able record", (t) => 
 
         validateProxiedRecords(t, data, file);
     });
+
+    t.pass();
 });
 
 const unproxyable = [
@@ -79,4 +81,6 @@ t("Domains with specific records must not have proxy enabled", (t) => {
             });
         }
     });
+
+    t.pass();
 });

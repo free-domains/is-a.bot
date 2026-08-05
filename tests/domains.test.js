@@ -33,6 +33,8 @@ t("Nested subdomains should not exist without a parent subdomain", (t) => {
             t.true(files.includes(`${parent}.json`), `${file}: Parent subdomain "${parent}" does not exist`);
         }
     });
+
+    t.pass();
 });
 
 t("Nested subdomains should not exist if any parent subdomain has NS records", (t) => {
@@ -48,6 +50,8 @@ t("Nested subdomains should not exist if any parent subdomain has NS records", (
             t.true(!parentData.records.NS, `${file}: Parent subdomain "${parent}" has NS records`);
         }
     });
+
+    t.pass();
 });
 
 t("Nested subdomains should be owned by the parent subdomain's owner", (t) => {
@@ -65,4 +69,6 @@ t("Nested subdomains should be owned by the parent subdomain's owner", (t) => {
             );
         }
     });
+
+    t.pass();
 });
