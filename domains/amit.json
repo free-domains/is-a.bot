@@ -3,6 +3,8 @@
     "username": "notamitgamer"
   },
   "records": {
-    "CNAME": "aranag-main-page.web.app"
-  }
+    "CNAME": "aranag-main-page.web.app",
+    "TXT": "hosting-site=aranag-main-page"
+  },
+  "proxied": true
 }
