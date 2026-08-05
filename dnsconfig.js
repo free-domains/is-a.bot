@@ -128,11 +128,6 @@ for (var subdomain in domains) {
             records.push(TXT(subdomainName, data.records.TXT.length <= 255 ? "\"" + data.records.TXT + "\"" : data.records.TXT));
         }
     }
-
-    // Handle URL records
-    if (data.records.URL) {
-        records.push(A(subdomainName, IP("192.0.2.1"), CF_PROXY_ON));
-    }
 }
 
 // Zone last updated TXT record
