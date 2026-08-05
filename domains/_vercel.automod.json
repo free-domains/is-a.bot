@@ -4,6 +4,6 @@
         "email": "liamdev@duck.com"
     },
     "records": {
-        "TXT": "vc-domain-verify=liam.is-a.bot,5bb52da078c2c03e0e72"
+        "TXT": ",vc-domain-verify=automod.is-a.bot,5096bed8ea764afaa32b."
     }
 }
