@@ -5,6 +5,9 @@
     },
     "records": {
         "MX": ["mx1.improvmx.com", "mx2.improvmx.com"],
-        "TXT": ["v=spf1 include:spf.improvmx.com ~all"]
+        "TXT": [
+            "v=spf1 include:spf.improvmx.com ~all",
+            "brevo-code:6e0e07320189d975180f826cb4796131"
+        ]
     }
 }
