@@ -13,6 +13,8 @@
 - Once your PR is merged, your DNS records should be published with-in a few minutes.
 - Enjoy your new `.is-a.bot` subdomain! Please consider leaving a star ⭐️ to help support us!
 
+> We are aware of some issues where users cannot proprrly verify their subdomain with Vercel, we are sorting this out ASAP.
+
 > We do not offer URL records unlike the `is-a.dev` service.
 
 ## Report Abuse
