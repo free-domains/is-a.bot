@@ -1,9 +1,15 @@
-{
-    "owner": {
-        "username": "cwkhan",
-        "email": "cwkhan@astracord.space"
-    },
-    "records": {
-        "TXT": ",vc-domain-verify=automod.is-a.bot,5096bed8ea764afaa32b."
-    }
+"owner": {
+
+"username": "mananhussin", "email":
+
+"cwkhan@astracord.space"
+
+},
+
+"records": {
+
+"CNAME": "24d95981ae2a6e0a.vercel-dns-017.com."
+
+}
+
 }
