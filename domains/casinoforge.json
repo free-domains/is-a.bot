@@ -1,10 +1,9 @@
 {
-    "owner": {
-        "username": "iamsteak",
-        "email": "[dewangga.julio@gmail.com]"
-    },
-    "records": {
-      "CNAME": "58hpiet70gdp.id.wasmer.app",
-      "A": ["5.161.23.223"]
-    }
+  "owner": {
+    "username": "iamsteak",
+    "email": "dewangga.julio@gmail.com"
+  },
+  "records": {
+    "CNAME": "58hpiet70gdp.id.wasmer.app"
+  }
 }
