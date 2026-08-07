@@ -1,7 +1,6 @@
 {
     "owner": {
-        "username": "iamsteak",
-        "email": "[email protected]"
+        "username": "iamsteak"
     },
     "records": {
       "CNAME": "58hpiet70gdp.id.wasmer.app",
