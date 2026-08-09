@@ -1,0 +1,10 @@
+{
+    "owner": {
+        "username": "10xdev4u-alt",
+        "email": "10xdev4u@gmail.com"
+    },
+    "records": {
+        "MX": ["feedback-smtp.ap-northeast-1.amazonses.com"],
+        "TXT": "v=spf1 include:amazonses.com ~all"
+    }
+}
