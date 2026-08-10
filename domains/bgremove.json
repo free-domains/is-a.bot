@@ -1,0 +1,12 @@
+{
+    "description": "Free AI Background Remover and Photo Editor",
+    "domain": "bgremove.is-a.bot",
+    "subdomain": "bgremove",
+    "owner": {
+        "username": "pariharmahipal02-dot",
+        "email": "pariharmahipal02@gmail.com"
+    },
+    "record": {
+        "CNAME": "mahieyai.vercel.app"
+    }
+}
