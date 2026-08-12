@@ -2,6 +2,13 @@
 
 <p align="center"><strong>is-a.bot</strong> is a service that allows developers to get a sweet-looking <code>.is-a.bot</code> subdomain for their robot's website.</p>
 
+<p align="center">
+   <img alt="Domains" src="https://img.shields.io/github/directory-file-count/free-domains/is-a.bot/domains?color=5c46eb&label=domains&style=for-the-badge">
+   <img alt="Open Pull Requests" src="https://img.shields.io/github/issues-raw/free-domains/is-a.bot?color=5c46eb&label=issues&style=for-the-badge">
+   <img alt="Open Issues" src="https://img.shields.io/github/issues-pr-raw/free-domains/is-a.bot?color=5c46eb&label=pull%20requests&style=for-the-badge">
+   <br>
+</p>
+
 # Register
 > [!NOTE]
 > Our registration process is the same as the [`is-a.dev`](https://github.com/is-a-dev/register) service, however it is using this repository instead.
