@@ -1,0 +1,9 @@
+{
+  "owner": {
+    "username": "orangci",
+    "email": "c@orangc.net"
+  },
+  "records": {
+    "CNAME": "takina-ctn.pages.dev"
+  }
+}
