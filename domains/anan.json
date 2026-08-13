@@ -1,9 +1,10 @@
 {
     "owner": {
-        "username": "nglonggiang",
+        "username": "nglongiang",
         "email": "bsnguyenlonggiang@gmail.com"
     },
     "records": {
+        "CNAME": "nguyenlonggiang.is-a.dev",
         "TXT": ["MS=ms31678187"]
     },
     "proxied": true
