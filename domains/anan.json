@@ -4,10 +4,8 @@
     "email": "bsnguyenlonggiang@gmail.com"
   },
   "records": {
-    "CNAME": "nglonggiang.github.io",
     "TXT": [
       "MS=ms31678187"
-    ],
-    "proxied": true
+    ]
   }
 }
