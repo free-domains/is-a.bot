@@ -1,11 +1,12 @@
 {
-    "owner": {
-        "username": "nglongiang",
-        "email": "bsnguyenlonggiang@gmail.com"
-    },
-    "records": {
-        "CNAME": "nguyenlonggiang.is-a.dev",
-        "TXT": ["MS=ms60033269"]
-    },
-    "proxied": true
+  "owner": {
+    "username": "nglonggiang",
+    "email": "bsnguyenlonggiang@gmail.com"
+  },
+  "record": {
+    "CNAME": "nglonggiang.github.io",
+    "TXT": [
+      "MS=ms60033269"
+    ]
+  }
 }
