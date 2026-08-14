@@ -1,0 +1,11 @@
+{
+  "description": "Official website for Dexel Discord Bot",
+  "repo": "https://github.com/theadityasinghal/dexelwebsite",
+  "owner": {
+    "username": "theadityasinghal",
+    "email": "adityasinghal@gmail.com"
+  },
+  "record": {
+    "CNAME": "theadityasinghal.github.io"
+  }
+}
