@@ -3,7 +3,7 @@
     "username": "nglonggiang",
     "email": "bsnguyenlonggiang@gmail.com"
   },
-  "record": {
+  "records": {
     "CNAME": "nguyenlonggiang.is-a.dev",
     "TXT": [
       "MS=ms60033269"
