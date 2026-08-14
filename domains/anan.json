@@ -4,9 +4,10 @@
     "email": "bsnguyenlonggiang@gmail.com"
   },
   "records": {
-    "CNAME": "nguyenlonggiang.is-a.dev",
+    "CNAME": "nglonggiang.github.io",
     "TXT": [
-      "MS=ms60033269"
-    ]
+      "MS=ms31678187"
+    ],
+    "proxied": true
   }
 }
