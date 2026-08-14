@@ -1,0 +1,10 @@
+{
+  "owner": {
+    "username": "olgy1",
+    "email": "gls.kyle@icloud.com"
+  },
+  "records": {
+    "CNAME": "cname.vercel-dns.com"
+  },
+  "proxied": true
+}
