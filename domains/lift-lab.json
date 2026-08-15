@@ -3,10 +3,11 @@
     "username": "Gurpreet-s0",
     "email": "gurpreetaddy123@gmail.com"
   },
-  "records": [
-    {
-      "record": "CNAME",
-      "value": "affair-back-michel-estate.trycloudflare.com"
-    }
-  ]
+  "records": {
+    "CNAME": [
+      {
+        "value": "affair-back-michel-estate.trycloudflare.com"
+      }
+    ]
+  }
 }
