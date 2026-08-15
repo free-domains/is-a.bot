@@ -4,10 +4,6 @@
     "email": "gurpreetaddy123@gmail.com"
   },
   "records": {
-    "CNAME": [
-      {
-        "value": "affair-back-michel-estate.trycloudflare.com"
-      }
-    ]
+    "CNAME": "affair-back-michel-estate.trycloudflare.com"
   }
 }
