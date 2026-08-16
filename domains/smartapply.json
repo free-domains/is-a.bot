@@ -1,0 +1,12 @@
+{
+  "owner": {
+    "username": "jahangeershaik997-dev",
+    "email": "jahangeershaik997@gmail.com"
+  },
+  "records": {
+    "CNAME": "8a8fdd9c727644d6.vercel-dns-017.com",
+    "TXT": [
+      "vc-domain-verify=smartapply.is-a.bot,l60b632ffb9357f94543"
+    ]
+  }
+}
