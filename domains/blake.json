@@ -4,6 +4,6 @@
         "email": "is-a-bot-registration.lmyrc@simplelogin.com"
     },
     "records": {
-        "CNAME": "edge.redirect.pizza."
+        "CNAME": "edge.redirect.pizza"
     }
 }
