@@ -115,6 +115,7 @@
     "register",
     "registrar",
     "registry",
+    "reminders",
     "reserved",
     "root",
     "secure",
@@ -150,10 +151,12 @@
     "websocket",
     "whois",
     "wss",
+    "wu",
     "ww",
     "wwww",
     "your-domain",
     "your-domain-name",
     "your-subdomain",
-    "zone"
+    "zone",
+    "zones"
 ]
