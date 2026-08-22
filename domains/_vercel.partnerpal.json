@@ -1,0 +1,9 @@
+{
+  "owner": {
+    "username": "anondev-sudo",
+    "email": "anon@anon.is-a.dev"
+  },
+  "records": {
+    "TXT": "vc-domain-verify=partnerpal.is-a.bot,7e7a2c66e3e6fb44bafd"
+  }
+}
