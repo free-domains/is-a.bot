@@ -3,8 +3,10 @@
     "username": "Denisyoya",
     "email": "nvrsdenis@gmail.com"
   },
-  "record": {
+  "records": {
     "CNAME": "3cf88ee7a81ef720.vercel-dns-017.com",
-    "TXT": "vc-domain-verify=gitdeck.is-a.bot,69b476103e2d988fb54a"
+    "TXT": [
+      "vc-domain-verify=gitdeck.is-a.bot,69b476103e2d988fb54a"
+    ]
   }
 }
