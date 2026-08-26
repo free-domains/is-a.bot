@@ -1,0 +1,1 @@
+{\"hostname\":\"nova.is-a.bot\",\"ip\":\"195.90.209.140\",\"contact\":\"sasa@sasas-it.de\",\"proof\":\"DNS A record pointing to 195.90.209.140, server svr-gtw1.sasas-it.de\"}
