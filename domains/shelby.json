@@ -1,11 +1,12 @@
 {
+  "description": "Shelby AI Assistant",
+  "repo": "https://github.com/kuxhaan7/shelby-ai",
   "owner": {
     "username": "kuxhaan7",
     "email": "kushaankaushik007@gmail.com"
   },
-  "description": "Shelby : My autonomous data agent",
-  "repo": "https://github.com/kuxhaan7/Shelby-AI",
   "records": {
-    "CNAME": "ghs.googlehosted.com"
+    "CNAME": "ghs.googlehosted.com",
+    "TXT": ["google-site-verification=MPUq_-wbVFWqmktwmoNawIAA1UszypILWzhcYw5WsMI"]
   }
 }
