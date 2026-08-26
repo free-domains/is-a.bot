@@ -3,6 +3,7 @@
     "username": "Denisyoya",
     "email": "nvrsdenis@gmail.com"
   },
+  "proxied": true,
   "records": {
     "CNAME": "3cf88ee7a81ef720.vercel-dns-017.com",
     "TXT": [
