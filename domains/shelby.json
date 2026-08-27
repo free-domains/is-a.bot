@@ -1,12 +1,11 @@
 {
-  "description": "Shelby - The AI for everyone",
+  "description": "Google Search Console verification for shelby.is-a.bot",
   "repo": "https://github.com/kuxhaan7/shelby-ai",
   "owner": {
     "username": "kuxhaan7",
     "email": "kushaankaushik007@gmail.com"
   },
   "records": {
-    "CNAME": "ghs.googlehosted.com",
-    "TXT": ["google-site-verification=MPUq_-wbVFWqmktwmoNawIAA1UszypILWzhcYw5WsMI"]
+    "CNAME": "gv-a7jssh5fv42uw7.dv.googlehosted.com"
   }
 }
