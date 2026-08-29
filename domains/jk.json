@@ -1,8 +1,9 @@
 {
-  "owner": {
-    "username": "jktripuri"
-  },
-  "records": {
-    "CNAME": "jktripuri.jktripuri.workers.dev"
-  }
+    "owner": {
+        "username": "jktripuri",
+        "email": "jktripuri@gmail.com"
+    },
+    "records": {
+        "CNAME": "jktripuri.jktripuri.workers.dev"
+    }
 }
