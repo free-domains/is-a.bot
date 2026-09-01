@@ -1,0 +1,20 @@
+name: Daily Agentic Digest Trigger
+on:
+  schedule:
+    - cron: "0 3 * * *" # 03:00 UTC = 07:00 Dubai
+  workflow_dispatch:
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger agentic.is-a.bot digest
+        run: |
+          echo "Triggering digest at $(date -u)"
+          curl -s "https://agentic.is-a.bot/api/digest?send=1&secret=923790ca62560834d855f6e0f131fee7" | tee resp.json
+          cat resp.json
+          # also trigger fallback
+          curl -s "https://agentic.is-a.bot/api/digest?test=1" | tee resp2.json
+          cat resp2.json
+          # verify at least one ok
+          if jq -e '.ok == true' resp.json > /dev/null; then exit 0; fi
+          jq -e '.ok == true' resp2.json
