@@ -1,0 +1,10 @@
+{
+  "comment": "My bot hosted on Render",
+  "owner": {
+    "username": "rajuan34",
+    "email": "rajuan.r34.gameing@gmail.com"
+  },
+  "records": {
+    "CNAME": "murgibot.onrender.com"
+  }
+}
