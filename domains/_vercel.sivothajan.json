@@ -1,0 +1,12 @@
+{
+    "owner": {
+        "username": "sivothajan",
+        "email": "is-a.bot@sivothajan.me"
+    },
+    "records": {
+        "TXT": [
+            "vc-domain-verify=sivothajan.is-a.bot,c7a800dfe7a886bef2b1",
+            "vc-domain-verify=www.sivothajan.is-a.bot,1849ede3cfb45bdcbab2"
+        ]
+    }
+}
