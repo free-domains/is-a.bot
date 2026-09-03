@@ -138,6 +138,7 @@ var ignored = [
     IGNORE("*._domainkey", "TXT"),
     IGNORE("@", "*"),
     IGNORE("_acme-challenge", "TXT"),
+    IGNORE("_discord", "TXT"),
     IGNORE("_dmarc", "TXT"),
     IGNORE("_gh-free-domains-o", "TXT"),
     IGNORE("_gh-free-domains-o.**", "TXT"),
