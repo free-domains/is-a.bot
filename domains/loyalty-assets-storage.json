@@ -1,8 +1,9 @@
 {
   "owner": {
-    "username": "loyaltylink-s"
+    "username": "loyaltylink-s",
+    "email": "irnfannurfebriansyah@gmail.com"
   },
-  "record": {
+  "records": {
     "CNAME": "loyaltylink-s.github.io"
   }
 }
