@@ -1,8 +1,9 @@
 {
   "owner": {
-    "username": "heegvn"
+    "username": "heegvn",
+    "discord": "heegen"
   },
   "records": {
-    "CNAME": "35.231.240.178"
+    "A": ["35.231.240.178"]
   }
 }
