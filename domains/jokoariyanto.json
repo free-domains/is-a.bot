@@ -1,7 +1,6 @@
 {
   "owner": {
-    "username": "jokoarynt",
-    "email": "clay-jab-armrest@duck.com"
+    "username": "jokoarynt"
   },
   "records": {
     "CNAME": "edge.redirect.pizza"
