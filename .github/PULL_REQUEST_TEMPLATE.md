@@ -16,7 +16,7 @@ FAILURE TO COMPLETE ALL REQUIREMENTS WILL RESULT IN A DENIAL OF YOUR PR!
 
 # Website Preview
 <!-- Provide a link of your website below. We do NOT accept screenshots, with the exception we ask you for one. -->
-<!-- This should be a link to the existing domain your website is on, NOT the is-a.dev domain you're applying for. (e.g. abc.vercel.app, abc.github.io) -->
+<!-- This should be a link to the existing domain your website is on, NOT the is-a.bot domain you're applying for. (e.g. abc.vercel.app, abc.github.io) -->
 <!-- SCREENSHOTS ARE NOT PERMITTED AS PREVIEWS. -->
 
 # Website Purpose
