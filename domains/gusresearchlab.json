@@ -3,7 +3,7 @@
     "username": "pareshmishra23",
     "email": "paresh.mishra@gmail.com"
   },
-  "description": "CamelAdkAgent AI Agent dashboard and ADK endpoint for GUS Research Lab",
+  "description": "Root namespace for GUS Research Lab AI agents & open-source projects",
   "records": {
     "A": [
       "92.4.69.1"
