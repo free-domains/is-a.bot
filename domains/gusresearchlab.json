@@ -1,0 +1,10 @@
+{
+  "owner": {
+    "username": "pareshmishra23",
+    "email": "paresh.mishra@gmail.com"
+  },
+  "description": "Root namespace for GUS Research Lab AI agents & telemetry dashboard",
+  "records": {
+    "CNAME": "gusresearchlab.hopto.org"
+  }
+}
