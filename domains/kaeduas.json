@@ -1,0 +1,19 @@
+{
+  "description": "Personal developer portfolio of Qophe Junior Motsamai (QJ) — generative video experiments, open-source tools, and a culture quiz on SA entertainment and creative craft.",
+  "repo": "https://github.com/QJMotsamai/kaeduas",
+  "owner": {
+    "username": "QJMotsamai",
+    "email": "motsamai.main@gmail.com"
+  },
+  "records": {
+    "CNAME": "qjmotsamai.github.io",
+    "MX": [
+      "mx1.improvmx.com",
+      "mx2.improvmx.com"
+    ],
+    "TXT": [
+      "v=spf1 include:spf.improvmx.com ~all"
+    ]
+  },
+  "proxied": true
+}
