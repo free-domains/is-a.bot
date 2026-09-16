@@ -1,6 +1,8 @@
 {
+  "description": "Мой бесплатный сайт",
   "owner": {
-    "username": "afk6556"
+    "username": "afk6556",
+    "email": "islamcerberev@gmail.com"
   },
   "record": {
     "CNAME": "vim.github.io"
