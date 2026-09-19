@@ -1,8 +1,9 @@
 {
   "owner": {
-    "username": "fahriftrhmn14"
+    "username": "fahriftrhmn14",
+    "email": "fahri.faturrahman14@gmail.com"
   },
-  "record": {
+  "records": {
     "CNAME": "fahri-ai.netlify.app",
     "TXT": "e545201bcabf280005aca8037f002d4f"
   }
