@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "vietnambyte",
+    "email": "vietnambyte@gmail.com"
+  },
+  "description": "Vietnam Byte - sharing tech knowledge for Vietnamese devs",
+  "records": {
+    "NS": [
+      "kara.ns.cloudflare.com",
+      "konnor.ns.cloudflare.com"
+    ]
+  }
+}
