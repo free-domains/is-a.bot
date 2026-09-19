@@ -1,0 +1,9 @@
+{
+  "domain": "simplystock",
+  "owner": {
+    "email": "simplyakib@proton.me"
+  },
+  "record": {
+    "CNAME": "simply-stock-50db.onrender.com"
+  }
+}
