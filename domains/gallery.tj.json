@@ -7,10 +7,9 @@
     "CNAME": "b3sunappu.dpdns.org"
   },
   "redirect_config": {
-  "custom_paths": {
-    "/admin": "http://b3sunappu.dpdns.org/wp-admin/"
-  },
-  "redirect_paths": true
-  }
-  
+    "custom_paths": {
+      "/admin": "http://b3sunappu.dpdns.org/wp-admin/"
+    },
+    "redirect_paths": true
+  }  
 }
