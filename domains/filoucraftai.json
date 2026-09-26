@@ -1,9 +1,8 @@
 {
-  "domain": "filoucraft",
-  "records": [
-    {
-      "type": "CNAME",
-      "value": "filoucraft-ai.onrender.com"
-    }
-  ]
+  "owner": {
+    "username": "Nathfilou"
+  },
+  "records": {
+    "CNAME": "://onrender.com"
+  }
 }
