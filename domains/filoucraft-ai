@@ -1,0 +1,9 @@
+{
+  "domain": "filoucraft",
+  "records": [
+    {
+      "type": "CNAME",
+      "value": "filoucraft-ai.onrender.com"
+    }
+  ]
+}
