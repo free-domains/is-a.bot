@@ -1,0 +1,11 @@
+{
+"domain": "hithardfno",
+  "subdomain": "hithardfno",
+  "owner": {
+    "username": "hithardsignals",
+    "email": "hithardsignals@gmail.com"
+  },
+  "record": {
+    "CNAME": "hithardsignals.github.io"
+  }
+}
