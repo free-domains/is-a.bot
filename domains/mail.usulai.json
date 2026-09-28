@@ -1,0 +1,6 @@
+{
+  "owner": { "username": "emonOPL" },
+  "records": {
+    "TXT": ["v=spf1 include:_spf.smtp.mailtrap.live ~all"]
+  }
+}
