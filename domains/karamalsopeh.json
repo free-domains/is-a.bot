@@ -1,10 +1,16 @@
 {
-  "domain": "karamalsopeh",
   "owner": {
     "username": "karamalsopeh-netizen"
   },
   "records": {
-    "CNAME": "karamalsopeh-netizen.github.io.",
-    "TXT": "github-pages-challenge-karamalsopeh-netizen=76f5ee1c5bb11a39c3447d5b9f1c45"
+    "A": [
+      "185.199.108.153",
+      "185.199.109.153",
+      "185.199.110.153",
+      "185.199.111.153"
+    ],
+    "TXT": [
+      "github-pages-challenge-karamalsopeh-netizen=76f5ee1c5bb11a39c3447d5b9f1c45"
+    ]
   }
 }
