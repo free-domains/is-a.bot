@@ -1,9 +1,10 @@
 {
+  "domain": "karamalsopeh",
   "owner": {
-    "username": "karamalsopeh-netizen",
-    "email": "karamalsopeh@gmail.com"
+    "username": "karamalsopeh-netizen"
   },
   "records": {
-    "CNAME": "karamalsopeh-netizen.github.io"
+    "CNAME": "karamalsopeh-netizen.github.io.",
+    "TXT": "github-pages-challenge-karamalsopeh-netizen=76f5ee1c5bb11a39c3447d5b9f1c45"
   }
 }
