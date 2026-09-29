@@ -1,0 +1,10 @@
+{
+  "description": "PragVPN Vercel project",
+  "owner": {
+    "github": "grapbl0b"
+  },
+  "record": {
+    "CNAME": "de22a0c3e78b985a.vercel-dns-017.com.",
+    "TXT": "_vercel=vc-domain-verify=pragvpn.is-a.bot,4b1f04ff0cfbba5818b1"
+  }
+}
