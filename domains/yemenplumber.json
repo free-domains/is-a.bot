@@ -1,9 +1,9 @@
 {
   "owner": {
-    "username": "yemenplumber",
+    "username": "yemenplumber-hub",
     "email": "yemenplumber@gmail.com"
   },
-  "record": {
+  "records": {
     "CNAME": "ghs.googlehosted.com"
   }
 }
