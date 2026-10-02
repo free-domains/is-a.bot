@@ -1,4 +1,6 @@
 {
+  "description": "Discord Bot server connection for our community",
+  "repo": "https://github.com/pxndxdeshi/is-a.bot",
   "owner": {
     "username": "pxndxdeshi",
     "email": "designedpo@gmail.com"
