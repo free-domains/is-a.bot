@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "legendaryweb"
+  },
+  "records": {
+    "MX": [
+      {
+        "target": "inbound-smtp.eu-west-1.amazonaws.com",
+        "priority": 10
+      }
+    ]
+  }
+}
