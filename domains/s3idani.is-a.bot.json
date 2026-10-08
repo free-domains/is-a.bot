@@ -1,0 +1,11 @@
+   {
+     "domain": "is-a.bot",
+     "subdomain": "s3idani",
+     "owner": {
+       "email": "s.hechmi@gmail.com"
+     },
+     "records": {
+       "CNAME": "s3idani.github.io"
+     },
+     "proxied": false
+   }
