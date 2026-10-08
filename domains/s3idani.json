@@ -1,11 +1,12 @@
-   {
-     "domain": "is-a.bot",
-     "subdomain": "s3idani",
-     "owner": {
-       "email": "s3idani.h@gmail.com"
-     },
-     "records": {
-       "CNAME": "s3idani.github.io"
-     },
-     "proxied": false
-   }
+{
+  "domain": "is-a.bot",
+  "subdomain": "s3idani",
+  "owner": {
+    "username": "s3idani",
+    "email": "s3idani.h@gmail.com"
+  },
+  "records": {
+    "CNAME": "s3idani.github.io"
+  },
+  "proxied": false
+}
