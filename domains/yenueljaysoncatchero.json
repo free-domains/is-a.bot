@@ -3,7 +3,7 @@
     "username": "yjcatchero",
     "email": "yenueljayson.catchero@gmail.com"
   },
-  "proxied": false,
+  "proxied": true,
   "records": {
     "CNAME": "e5c7d793ca5e98d9.vercel-dns-017.com",
     "TXT": [
