@@ -1,6 +1,9 @@
 {
-  "owner": "yjcatchero",
-  "username": "yjcatchero",
-  "email": "yenueljayson.catchero@gmail.com",
-  "cname": "cname.vercel-dns.com"
+  "owner": {
+    "username": "yjcatchero",
+    "email": "yenueljayson.catchero@gmail.com"
+  },
+  "records": {
+    "CNAME": "://vercel-dns.com"
+  }
 }
