@@ -4,6 +4,9 @@
     "email": "yenueljayson.catchero@gmail.com"
   },
   "records": {
-    "CNAME": "vercel-dns.com"
+    "CNAME": "vercel-dns.com",
+    "TXT": [
+      "vc-domain-verify=yenueljaysoncatchero.is-a.bot,5d52e990661f471cc16f"
+    ]
   }
 }
