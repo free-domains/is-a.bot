@@ -5,7 +5,7 @@
   },
   "proxied": true,
   "records": {
-    "CNAME": "e5c7d793ca5e98d9.vercel-dns-017.com",
+    "CNAME": "://vercel-dns-017.com",
     "TXT": [
       "vc-domain-verify=yenueljaysoncatchero.is-a.bot,5d52e990661f471cc16f"
     ]
