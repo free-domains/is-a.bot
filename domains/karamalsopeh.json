@@ -4,6 +4,5 @@
   },
   "records": {
     "CNAME": "://googlehosted.com"
-  },
-  "proxied": true
+  }
 }
