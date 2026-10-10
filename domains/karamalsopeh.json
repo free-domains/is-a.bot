@@ -3,14 +3,7 @@
     "username": "karamalsopeh-netizen"
   },
   "records": {
-    "A": [
-      "185.199.108.153",
-      "185.199.109.153",
-      "185.199.110.153",
-      "185.199.111.153"
-    ],
-    "TXT": [
-      "github-pages-challenge-karamalsopeh-netizen=3bba58536df413b03eca328a637c96"
-    ]
-  }
+    "CNAME": "://googlehosted.com"
+  },
+  "proxied": true
 }
