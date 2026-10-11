@@ -1,0 +1,25 @@
+
+{
+  "owner": {
+    "username": "aa2953b4",
+    "email": "aa2953b4@yahoo.com"
+  },
+  "records": {
+    "A": [
+      "83.168.107.164"
+    ],
+    "MX": [
+      {
+        "target": "mx1.improvmx.com",
+        "priority": 10
+      },
+      {
+        "target": "mx2.improvmx.com",
+        "priority": 20
+      }
+    ],
+    "TXT": [
+      "v=spf1 include:spf.improvmx.com ~all"
+    ]
+  }
+}
