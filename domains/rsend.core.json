@@ -1,5 +1,5 @@
 {
-  "owner": { "username": "legendaryweb" },
+   "owner": { "username": "legendaryweb", "email": "darren@astron.co.za" },
   "records": { "CNAME": "rsend-euw1.forge.rmta.net" },
   "proxied": false
 }
