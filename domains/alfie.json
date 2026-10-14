@@ -1,8 +1,10 @@
 {
-    "owner": {
-        "username": "rdmilkshakelab"
-    },
-    "records": {
-        "CNAME": "example.org"
-    }
+  "owner": {
+    "username": "rdmilkshakelab",
+    "email": "alfernado@outlook.com"
+  },
+  "records": {
+    "CNAME": "rdmilkshakelab.github.io"
+  },
+  "proxied": true
 }
