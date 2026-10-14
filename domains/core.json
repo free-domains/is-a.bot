@@ -1,5 +1,5 @@
 {
-  "owner": { "username": "legendaryweb" },
+  "owner": { "username": "legendaryweb", "email": "darren@astron.co.za" },
   "records": {
     "MX": [
       { "target": "inbound-smtp.eu-west-1.amazonaws.com", "priority": 10 }
