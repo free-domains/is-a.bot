@@ -4,5 +4,6 @@
   },
   "records": {
     "CNAME": "bn-utilities-ai.netlify.app"
-  }
+  },
+  "proxied": true
 }
