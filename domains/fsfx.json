@@ -1,9 +1,9 @@
 {
-  "owner": {
-    "username": "farzadsfx",
-    "email": "farzadsfx@gmail.com"
-  },
-  "record": {
-            "CNAME": "fsfx.pages.dev"
-  }
+    "owner": {
+        "username": "farzasfx",
+        "email": "[farzadsfx@gmail.com]"
+    },
+    "records": {
+        "CNAME": "fsfx.pages.dev"
+    }
 }
