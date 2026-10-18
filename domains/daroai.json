@@ -1,10 +1,9 @@
-
 {
   "owner": {
     "username": "iequahsh"
   },
   "records": {
     "CNAME": "custom-domains.chatgpt.site"
-  },
-  "proxied": false
+  }
+  
 }
