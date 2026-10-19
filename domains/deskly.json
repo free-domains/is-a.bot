@@ -1,8 +1,8 @@
 {
   "owner": {
-    "username": "Fluxionics"
+    "username": "Fluxionics",
+    "email": "guille.g.r.s.m@gmail.com"
   },
   "records": {
-    "A": ["216.24.57.1"]
+    "CNAME": "deskly-3j2d.onrender.com"
   }
-}
