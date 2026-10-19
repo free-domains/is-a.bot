@@ -1,6 +1,6 @@
 # Instructions for AI agents
 
-This file is for AI coding agents (Claude Code, Copilot, Codex, Cursor, etc.) working in `is-a-dev/register` on behalf of a human user.
+This file is for AI coding agents (Claude Code, Copilot, Codex, Cursor, etc.) working in `ree-domains/is-a.bot` on behalf of a human user.
 
 ## Project policy
 
