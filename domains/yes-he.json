@@ -4,18 +4,6 @@
     "email": "hossainmehir2006@gmail.com"
   },
   "records": {
-    "MX": [
-      {
-        "target": "mx1.improvmx.com",
-        "priority": 10
-      },
-      {
-        "target": "mx2.improvmx.com",
-        "priority": 20
-      }
-    ],
-    "TXT": [
-      "v=spf1 include:spf.improvmx.com ~all"
-    ]
+    "CNAME": "11c38012cb11e24d.vercel-dns-017.com."
   }
 }
