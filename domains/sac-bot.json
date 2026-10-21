@@ -4,6 +4,7 @@
     "email": "ccreatesaserver@gmail.com"
   },
   "records": {
-    "CNAME": "sac-bot-6c6eb.web.app"
+    "CNAME": "sac-bot-6c6eb.web.app",
+    "TXT": "zoho-verification=zb07643689.zmverify.zoho.com"
   }
 }
