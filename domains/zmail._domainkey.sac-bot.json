@@ -1,0 +1,9 @@
+{
+  "owner": {
+    "username": "ccreatesaserver-afk",
+    "email": "ccreatesaserver@gmail.com"
+  },
+  "records": {
+    "TXT": "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC2rNgCHFjA6zfEYlDzZyx6H5OWsjdOmSBQL/SoSlhDyGksaqk/Sh5cCsL1dOS8vtfEgS/xzbHwvQ1OIFFgm5BjX9C1A8Nh7kEojNUPT6qJAGdCnVpoZbFSosD/pvxTtojymJHZrhxC53MJJfUFmssv1CVZvELetwi247Yznda60QIDAQAB"
+  }
+}
