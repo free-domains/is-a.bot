@@ -11,7 +11,7 @@
       { "priority": 50, "value": "mx3.zoho.com" }
     ],
     "TXT": [
-      "v=spf1 include:zoho.com ~all"
+      "v=spf1 include:zohomail.com ~all"
     ]
   }
 }
