@@ -4,6 +4,6 @@
     "email": "decastro.gabriel00@gmail.com"
   },
   "records": {
-    "CNAME": "2f67383dcaedf868.vercel-dns-017.com."
+    "TXT": "vc-domain-verify=gabalya.is-a.bot,6ffa8bfa7c68f450b380"
   }
 }
