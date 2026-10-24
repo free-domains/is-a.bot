@@ -4,9 +4,7 @@
     "email": "blastermaster224@gmail.com"
   },
   "records": {
-    "CNAME": {
-      "target": "omniroute-service-22402.onrender.com",
-      "proxied": false
-    }
-  }
+    "CNAME": "omniroute-service-22402.onrender.com"
+  },
+  "proxied": false
 }
