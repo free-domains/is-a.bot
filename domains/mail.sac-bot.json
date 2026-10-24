@@ -3,7 +3,24 @@
     "username": "ccreatesaserver-afk",
     "email": "ccreatesaserver@gmail.com"
   },
-  "records": {
-    "TXT": "zoho-verification=zb15312845.zmverify.zoho.com"
+    "records": {
+      "TXT": [
+        "TXT Value / Content Will Be Stay Here From Old Content",
+        "v=spf1 include:zohomail.com ~all"
+      ],
+      "MX": [
+        {
+          "target": "mx.zoho.com",
+          "priority": 10
+        },
+        {
+          "target": "mx2.zoho.com",
+          "priority": 20
+        },
+        {
+          "target": "mx3.zoho.com",
+          "priority": 50
+        }
+      ]
+    }
   }
-}
