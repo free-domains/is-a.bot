@@ -1,0 +1,11 @@
+{
+  "owner": {
+    "username": "Cool-zimo",
+    "email": "feng-zimo@outlook.com"
+  },
+  "description": "GitHub Drive - a virtual file system built on the GitHub API",
+  "repo": "https://github.com/Cool-zimo/github_drive",
+  "records": {
+    "CNAME": "cool-zimo.github.io"
+  }
+}
