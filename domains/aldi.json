@@ -1,7 +1,7 @@
 {
     "owner": {
         "username": "xaldiy",
-        "aldi": "aldi@v.cd"
+        "email": "aldi@v.cd"
     },
     "records": {
         "CNAME": ["35248ef95d3ba8cd.vercel-dns-017.com."]
