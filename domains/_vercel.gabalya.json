@@ -1,9 +1,8 @@
 {
-  "owner": {
-    "username": "hase0278",
-    "email": "decastro.gabriel00@gmail.com"
-  },
-  "records": {
-    "TXT": "vc-domain-verify=gabalya.is-a.bot,6ffa8bfa7c68f450b380"
-  }
+    "owner": {
+        "username": "hase0278"
+    },
+    "records": {
+        "TXT": "vc-domain-verify=gabalya.is-a.bot,625f55b340e1e05a9a11"
+    }
 }
