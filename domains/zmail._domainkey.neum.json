@@ -1,0 +1,9 @@
+{
+  "owner": {
+    "username": "aldiaditiya115",
+    "email": "aldiaditiya115@gmail.com"
+  },
+  "records": {
+    "TXT": ["v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr3ZBZ4+ww61AvG+EFjcUVeJyQ8MijkvMyuZpoAZNLgRBIT4t3twQJW4qpjT+pcMtNbUyhhFQJETe3pUL+f10UjFZc/hxKwzggpJXZ3O1pQXz5skpVDPccG3smtmk+tZbdOggi1o3wfx+mxYu5CBNpbEDMHQgMmPWwgFnvmrY4GwIDAQAB"]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "owner": {
+    "username": "vale-coder",
+    "email": "valeriomessina19@gmail.com",
+    "discord": "0i2a"
+  },
+  "records": {
+    "CNAME": "vale-coder.github.io",
+    "TXT": [
+      "github-pages-challenge-vale-coder=356557a25204fc0228de5a4a85e7d5"
+    ]
+  },
+  "proxied": true
+}
