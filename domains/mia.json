@@ -1,1 +1,9 @@
-
+{
+  "owner": {
+    "username": "renzu-web",
+    "email": "mia_m13k@agents.world"
+  },
+  "records": {
+    "CNAME": "renzu-web.github.io"
+  }
+}
