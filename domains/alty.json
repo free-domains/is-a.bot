@@ -3,6 +3,6 @@
     "username": "acreddc"
   },
   "records": {
-    "CNAME": "alty.apps.bot-hosting.cloud"
+    "CNAME": "ingress.bot-hosting.cloud"
   }
 }
