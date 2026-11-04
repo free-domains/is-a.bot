@@ -1,8 +1,8 @@
-   {
-     "owner": {
-       "username": "ggsnepal"
-     },
-     "records": {
-       "CNAME": "chomik-bot.pages.dev"
-     }
-   }
+{
+  "owner": {
+    "username": "ggsnepal"
+  },
+  "records": {
+    "CNAME": "chomik-bot.pages.dev"
+  }
+}

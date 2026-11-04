@@ -1,4 +1,3 @@
-
 {
   "owner": {
     "username": "pareshmishra23",
@@ -6,7 +5,8 @@
   },
   "description": "Root namespace for GUS Research Lab AI agents & telemetry dashboard",
   "records": {
-    "A": ["92.4.69.1"]
+    "A": [
+      "92.4.69.1"
+    ]
   }
 }
-
