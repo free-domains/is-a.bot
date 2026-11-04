@@ -27,6 +27,11 @@
 ## Report Abuse
 If you find any subdomains being abused or breaking our [ToS](https://is-a.dev/terms), please report them by [creating an issue](https://github.com/free-domains/is-a.bot/issues/new?title=Report+abuse) with relevant evidence.
 
+## 💖 Supporting Us
+If you would like to help support us, please consider [donating](https://donate.is-a.dev) or [sponsoring](https://donate.is-a.dev/sponsor).
+
+We are proudly supported by Cloudflare's [Project Alexandria](https://www.cloudflare.com/lp/project-alexandria) program for our DNS management.
+
 ---
 
 ###### :star: Owned & operated by the maintainers of [is-a.dev](https://github.com/is-a-dev/register).
