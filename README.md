@@ -1,4 +1,4 @@
-<h1 align="center">is-a.bot</h1>
+<h1 align="center">🤖 is-a.bot</h1>
 
 <p align="center"><strong>is-a.bot</strong> is a service that allows developers to get a sweet-looking <code>.is-a.bot</code> subdomain for their robot's website.</p>
 
@@ -9,7 +9,16 @@
    <br>
 </p>
 
-# Register
+---
+
+## 📢 Announcements
+Please join our [Discord server](https://discord.gg/is-a-dev-830872854677422150) for announcements, service updates, and downtime notifications regarding the service.
+
+Only critical announcements are posted on GitHub, everything else is posted on our Discord server.
+
+---
+
+# ✏️ Register
 > [!NOTE]
 > Our registration process is the same as the [`is-a.dev`](https://github.com/is-a-dev/register) service, however it is using this repository instead.
 
@@ -22,9 +31,9 @@
 
 > We are aware of some issues where users cannot properly verify their subdomain with Vercel, we are sorting this out ASAP.
 
-> We do not offer URL records unlike the `is-a.dev` service.
+> We do not offer URL records unlike the `is-a.dev` service. This will be implemented in the future however.
 
-## Report Abuse
+## ⛔ Report Abuse
 If you find any subdomains being abused or breaking our [ToS](https://is-a.dev/terms), please report them by [creating an issue](https://github.com/free-domains/is-a.bot/issues/new?title=Report+abuse) with relevant evidence.
 
 ## 💖 Supporting Us
