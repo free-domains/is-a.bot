@@ -2,8 +2,8 @@ import t from "ava";
 import fs from "fs-extra";
 import path from "path";
 
-const internalDomains = fs.readJsonSync(path.resolve("util/internal.json"));
-const reservedDomains = fs.readJsonSync(path.resolve("util/reserved.json"));
+import internalDomains from "../util/internal.json" with { type: "json" };
+import reservedDomains from "../util/reserved.json" with { type: "json" };
 
 const ignoredRootJSONFiles = ["package-lock.json", "package.json"];
 
@@ -13,7 +13,8 @@ const requiredFields = {
 };
 
 const optionalFields = {
-    proxied: "boolean"
+    proxied: "boolean",
+    redirect_config: "object"
 };
 
 const requiredOwnerFields = {
@@ -24,19 +25,12 @@ const optionalOwnerFields = {
     email: "string"
 };
 
-const blockedFields = [
-    "domain",
-    "internal",
-    "proxy",
-    "reserved",
-    "services",
-    "subdomain",
-    "nested",
-    "record",
-    "redirect_config",
-    "redirects",
-    "redirects_config"
-];
+const optionalRedirectConfigFields = {
+    custom_paths: "object",
+    redirect_paths: "boolean"
+};
+
+const blockedFields = ["domain", "internal", "proxy", "reserved", "services", "subdomain", "subdomains", "nested", "record"];
 
 const emailRegex = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
 const hostnameRegex = /^(?=.{1,253}$)(?:(?:[_a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?)\.)+[a-zA-Z]{2,63}$/;
@@ -122,6 +116,7 @@ async function validateFileName(t, file) {
 
     const rootSubdomain = subdomain.split(".").pop();
     t.false(rootSubdomain.startsWith("_"), `${file}: Root subdomains should not start with an underscore`);
+    t.false(rootSubdomain.includes("is-a-bot"), `${file}: Root subdomains should not contain is-a-bot`);
 }
 
 async function processFile(file, t) {
@@ -150,6 +145,10 @@ async function processFile(file, t) {
     }
 
     t.true(Object.keys(data.records).length > 0, `${file}: Missing DNS records`);
+
+    if (data.redirect_config) {
+        validateFields(t, data.redirect_config, optionalRedirectConfigFields, file, "redirect_config");
+    }
 
     for (const field of blockedFields) {
         t.true(!data.hasOwnProperty(field), `${file}: Disallowed field: ${field}`);
