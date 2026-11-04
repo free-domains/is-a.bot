@@ -1,9 +1,8 @@
 {
   "owner": {
-    "username": "wdhdev",
-    "email": "william@is-a.dev"
+    "username": "wdhdev"
   },
   "records": {
-    "CNAME": "hrsn.dev"
+    "URL": "https://github.com/wdhdev"
   }
 }
