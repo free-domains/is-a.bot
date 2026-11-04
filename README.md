@@ -31,8 +31,6 @@ Only critical announcements are posted on GitHub, everything else is posted on o
 
 > We are aware of some issues where users cannot properly verify their subdomain with Vercel, we are sorting this out ASAP.
 
-> We do not offer URL records unlike the `is-a.dev` service. This will be implemented in the future however.
-
 ## ⛔ Report Abuse
 If you find any subdomains being abused or breaking our [ToS](https://is-a.dev/terms), please report them by [creating an issue](https://github.com/free-domains/is-a.bot/issues/new?title=Report+abuse) with relevant evidence.
 
