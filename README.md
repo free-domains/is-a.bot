@@ -1,6 +1,6 @@
-<h1 align="center">🤖 is-a.bot</h1>
-
-<p align="center"><strong>is-a.bot</strong> is a service that allows developers to get a sweet-looking <code>.is-a.bot</code> subdomain for their robot's website.</p>
+<p align="center">
+   <img height="350" alt="is-a.bot Banner" src="https://raw.githubusercontent.com/free-domains/is-a.bot/main/media/banner.png">
+</p>
 
 <p align="center">
    <img alt="Domains" src="https://img.shields.io/github/directory-file-count/free-domains/is-a.bot/domains?color=5c46eb&label=domains&style=for-the-badge">
@@ -8,6 +8,11 @@
    <img alt="Open Issues" src="https://img.shields.io/github/issues-pr-raw/free-domains/is-a.bot?color=5c46eb&label=pull%20requests&style=for-the-badge">
    <br>
 </p>
+
+<h1 align="center">🤖 is-a.bot</h1>
+
+<p align="center"><strong>is-a.bot</strong> is a service that allows developers to get a sweet-looking <code>.is-a.bot</code> subdomain for their robot's website.</p>
+<p align="center">📕 <a href="https://docs.is-a.dev">Documentation</a> &bull; 📜 <a href="https://is-a.bot/terms">Terms of Service</a> &bull; 💖 <a href="https://donate.is-a.bot">Donate</a></p>
 
 ---
 
