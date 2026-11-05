@@ -72,7 +72,7 @@ fs.readdir(directoryPath, function (err, files) {
                 owner: item.owner,
                 records: item.records
             };
-            // if (item.redirect_config) itemv1.redirect_config = item.redirect_config;
+            if (item.redirect_config) itemv1.redirect_config = item.redirect_config;
             if (item.proxied) itemv1.proxied = item.proxied;
 
             v1.push(itemv1);
