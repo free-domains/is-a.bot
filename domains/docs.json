@@ -1,0 +1,11 @@
+{
+  "owner": {
+    "username": "free-domains"
+  },
+  "records": {
+    "URL": "https://docs.is-a.dev"
+  },
+  "redirect_config": {
+    "redirect_paths": true
+  }
+}
