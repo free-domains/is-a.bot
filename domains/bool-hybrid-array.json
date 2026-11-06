@@ -6,5 +6,5 @@
   "records": {
     "CNAME": "bksell.github.io"
   },
-  "proxied":true,
+  "proxied": true
 }
