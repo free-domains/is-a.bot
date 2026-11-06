@@ -23,6 +23,12 @@ function getDomainData(file) {
 function validateProxiedRecords(t, data, file) {
     const recordTypes = Array.from(requiredRecordsToProxy).join(", ");
 
+    // Forcefully stop raw.is-a.bot from being proxied
+    if (file === "raw.json") {
+        t.true(!data.proxied, `${file}: raw.is-a.bot cannot be proxied`);
+        return;
+    }
+
     if (data.proxied) {
         const hasProxiedRecord = Object.keys(data.records).some((key) => requiredRecordsToProxy.has(key));
 
