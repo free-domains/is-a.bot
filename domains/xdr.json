@@ -4,6 +4,6 @@
         "email": "adlaioscar@gmail.com"
     },
     "records": {
-        "CNAME": "52fc88a3c19183ed.vercel-dns-017.com"
+        "TXT": "vc-domain-verify=xdr.is-a.bot,36e6f3f735bf0e2f129e"
     }
 }
