@@ -1,1 +1,8 @@
-{  "owner": {    "username": "ravixh"  },  "records": {    "CNAME": "ravixh.github.io"  }}
+{
+  "owner": {
+    "username": "ravixh"
+  },
+  "records": {
+    "CNAME": "ravixh.github.io"
+  }
+}
