@@ -1,1 +1,10 @@
-{"owner": {"username": "leoether"}, "records": {"CNAME": "leoether.github.io"}, "proxied": true}
+{
+  "owner": {
+    "username": "leoether",
+    "twitter": "LordSagai"
+  },
+  "records": {
+    "CNAME": "leoether.github.io"
+  },
+  "proxied": true
+}
