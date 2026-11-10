@@ -1,6 +1,7 @@
 {
     "owner": {
-        "username": "ittzspsv"
+        "username": "ittzspsv",
+        "email": "spshree@proton.me"
     },
     "records": {
         "TXT": "vc-domain-verify=lily.is-a.bot,5a4e79a39f999ef1fdc1"
