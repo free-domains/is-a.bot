@@ -1,1 +1,9 @@
-
+{
+  "owner": {
+    "username": "tannukhan8390-lab"
+  },
+  "records": {
+    "CNAME": "toshibee-portfolio.tannukhan8390.workers.dev"
+  },
+  "proxied": true
+}
