@@ -1,7 +1,7 @@
-
 {
   "owner": {
-    "username": "Stylish00Killer"
+    "username": "Stylish00Killer",
+    "email": "Stylish00Killer@gmail.com"
   },
   "records": {
     "TXT": "vc-domain-verify=alice.is-a.bot,35635d8e32f06812853d"
