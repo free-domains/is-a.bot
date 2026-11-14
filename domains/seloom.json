@@ -1,0 +1,10 @@
+{
+  "owner": {
+    "username": "seloom1",
+    "email": "esprootonly@gmail.com"
+  },
+  "records": {
+    "CNAME": "seloom1.github.io"
+  },
+  "proxied": true
+}
