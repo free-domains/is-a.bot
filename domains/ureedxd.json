@@ -4,6 +4,7 @@
     "discord": "1326435502034780264"
   },
   "records": {
-    "CNAME": "ureedxd.vercel.app"
+    "CNAME": "883ee6b6ede1f022.vercel-dns-017.com",
+    "TXT": "vc-domain-verify=ureedxd.is-a.bot,119a31971a3fac9b0789"
   }
 }
