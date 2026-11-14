@@ -1,9 +1,9 @@
-
 {
   "owner": {
-    "username": "Stylish00Killer"
+    "username": "Stylish00Killer",
+    "email": "Stylish00Killer@gmail.com"
   },
   "records": {
-    "CNAME": "c936213e3fdcc186.vercel-dns-017.com"
+    "CNAME": "alice-bse.pages.dev"
   }
 }
