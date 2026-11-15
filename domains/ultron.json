@@ -1,8 +1,9 @@
 {
   "owner": {
-    "username": "kali-linux-holic"
+    "username": "kali-linux-holic",
+    "email": "kali-linux-holic@users.noreply.github.com"
   },
   "records": {
-    "CNAME": "ultron.onrender.com"
+    "CNAME": "machinery-agency-dinner-calculated.trycloudflare.com"
   }
 }
