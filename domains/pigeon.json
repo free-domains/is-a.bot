@@ -6,5 +6,6 @@
   },
   "records": {
     "CNAME": "vale-coder.github.io"
-  }
+  },
+  "proxied": true
 }

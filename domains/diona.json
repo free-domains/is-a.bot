@@ -1,8 +1,8 @@
 {
-    "owner": {
-        "username": "AikoNee"
-    },
-    "records": {
-        "CNAME": "dionabot.pages.dev"
-    }
+  "owner": {
+    "username": "AikoNee"
+  },
+  "records": {
+    "CNAME": "dionabot.pages.dev"
+  }
 }

@@ -1,8 +1,8 @@
 {
-    "owner": {
-        "username": "itszubariel"
-    },
-    "records": {
-        "CNAME": "scrobbler-dashboard.netlify.app"
-    }
+  "owner": {
+    "username": "itszubariel"
+  },
+  "records": {
+    "CNAME": "scrobbler-dashboard.netlify.app"
+  }
 }
