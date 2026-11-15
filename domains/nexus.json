@@ -4,8 +4,6 @@
     "email": "adammalik1234674@gmail.com"
   },
   "records": {
-    "CNAME": {
-      "nexus": "nexus-api-rcmi.onrender.com"
-    }
+    "CNAME": "nexus-api-rcmi.onrender.com"
   }
 }
