@@ -1,6 +1,6 @@
 var domainName = "is-a.bot";
 var registrar = NewRegistrar("none");
-var dnsProvider = DnsProvider(NewDnsProvider("cloudflare"));
+var dnsProvider = DnsProvider(NewDnsProvider("cloudflare"), 0);
 
 function getDomainsList(filesPath) {
     var result = [];
