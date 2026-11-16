@@ -1,0 +1,11 @@
+{
+  "owner": {
+    "username": "Cool-zimo",
+    "email": "feng-zimo@outlook.com"
+  },
+  "description": "Developer portfolio - open source web projects built on the GitHub API",
+  "repo": "https://github.com/Cool-zimo/portfolio",
+  "records": {
+    "CNAME": "cool-zimo.github.io"
+  }
+}

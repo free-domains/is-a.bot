@@ -3,9 +3,11 @@
   "repo": "https://github.com/theadityasinghal/dexelwebsite",
   "owner": {
     "username": "theadityasinghal",
-    "email": "adityasinghal@gmail.com"
+    "email": "adityaweb101@gmail.com"
   },
   "records": {
-    "CNAME": "theadityasinghal.github.io"
+    "A": [
+      "129.154.250.144"
+    ]
   }
 }
