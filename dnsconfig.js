@@ -135,6 +135,14 @@ for (var subdomain in domains) {
     }
 }
 
+var reserved = require("./util/reserved.json");
+
+// Handle reserved domains
+for (var i = 0; i < reserved.length; i++) {
+    var subdomainName = reserved[i];
+    records.push(A(subdomainName, IP("192.0.2.1"), CF_PROXY_ON));
+}
+
 // Zone last updated TXT record
 records.push(TXT("_zone-updated", "\"" + Date.now().toString() + "\""));
 
@@ -149,7 +157,8 @@ var ignored = [
     IGNORE("_gh-free-domains-o.**", "TXT"),
     IGNORE("_github-pages-challenge-free-domains", "TXT"),
     IGNORE("_github-pages-challenge-free-domains.**", "TXT"),
-    IGNORE("_psl", "TXT")
+    IGNORE("_psl", "TXT"),
+    IGNORE("cf-bounce", "MX,TXT")
 ];
 
 var internal = require("./util/internal.json");
