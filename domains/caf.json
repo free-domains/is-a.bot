@@ -1,0 +1,9 @@
+{
+  "owner": {
+    "username": "piterofc"
+  },
+  "records": {
+    "CNAME": "edge.go.altare.global"
+  },
+  "proxied": true
+}
