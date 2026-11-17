@@ -3,7 +3,7 @@
     "username": "piterofc"
   },
   "records": {
-    "CNAME": "edge.go.altare.global"
+    "A": ["137.131.195.110"]
   },
   "proxied": true
 }
