@@ -1,6 +1,6 @@
 var domainName = "is-a.bot";
 var registrar = NewRegistrar("none");
-var dnsProvider = DnsProvider(NewDnsProvider("cloudflare"));
+var dnsProvider = DnsProvider(NewDnsProvider("cloudflare"), 0);
 
 function getDomainsList(filesPath) {
     var result = [];
@@ -149,7 +149,8 @@ var ignored = [
     IGNORE("_gh-free-domains-o.**", "TXT"),
     IGNORE("_github-pages-challenge-free-domains", "TXT"),
     IGNORE("_github-pages-challenge-free-domains.**", "TXT"),
-    IGNORE("_psl", "TXT")
+    IGNORE("_psl", "TXT"),
+    IGNORE("cf-bounce", "MX,TXT")
 ];
 
 var internal = require("./util/internal.json");
