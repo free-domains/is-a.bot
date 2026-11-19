@@ -1,6 +1,7 @@
 {
     "owner": {
-        "username": "sjwon0368"
+        "username": "sjwon0368",
+        "email": "sjwon0368@gmail.com"
     },
     "records": {
         "CNAME": "agents.sjwon0368.dpdns.org"
