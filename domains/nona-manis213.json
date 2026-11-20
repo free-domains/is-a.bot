@@ -1,0 +1,11 @@
+{
+  "domain": "is-a.bot",
+  "subdomain": "nona-manis213",
+  "owner": {
+    "email": "plant01game@gmail.com"
+  },
+  "records": {
+    "CNAME": "nona-manis213.github.io"
+  },
+  "proxied": false
+}
