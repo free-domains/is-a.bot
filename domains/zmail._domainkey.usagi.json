@@ -1,0 +1,10 @@
+{
+  "owner": {
+    "username": "sujunmin"
+  },
+  "records": {
+    "TXT": [
+      "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCaub4uQr76rYhMBpdJU+ocd6DRWCo/dZqsDDe+w+ok8vJcRYQHn2fCKLgZpk7eSnf+ngIr2Bjw7er+pyvicqIHgAhCdGZjVAWtbNzNTx/HMkwrWq4d/KHN2vHEvgR9eBNu6Ou8TVuN4NO0u3l/gRD/OsAgLhQJCQVZcdLD5glDWQIDAQAB"
+    ]
+  }
+}
