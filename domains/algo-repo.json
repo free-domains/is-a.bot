@@ -1,7 +1,6 @@
 {
   "owner": {
-    "username": "algo-repo",
-    "email": "267684910+algo-repo@users.noreply.github.com"
+    "username": "algo-repo"
   },
   "records": {
     "CNAME": "algo-repo.github.io"
