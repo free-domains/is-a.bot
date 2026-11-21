@@ -4,6 +4,6 @@
     "email": "asaifsojib@gmail.com"
   },
   "records": {
-    "CNAME": "cname.vercel-dns.com"
+    "NS": ["ns1.byet.org", "ns2.byet.org"]
   }
 }
