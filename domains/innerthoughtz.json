@@ -1,12 +1,12 @@
 {
-    "description": "Personal portfolio page",
-    "repo": "https://github.com/InnerThoughtz-spec",
-    "owner": {
-        "username": "InnerThoughtz-spec",
-        "email": "innerthoughtz00@gmail.com"
-    },
-    "records": {
-        "CNAME": "innerpersonal-stream.pages.dev"
-    },
-    "proxied": true
+  "description": "Personal portfolio page",
+  "repo": "https://github.com/InnerThoughtz-spec",
+  "owner": {
+    "username": "InnerThoughtz-spec",
+    "email": "innerthoughtz00@gmail.com"
+  },
+  "records": {
+    "CNAME": "innerpersonal-stream.pages.dev"
+  },
+  "proxied": true
 }
