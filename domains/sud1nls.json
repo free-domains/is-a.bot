@@ -1,8 +1,8 @@
- {
-    "owner": {
-        "username": "xdluru"
-    },
-    "records": {
-        "CNAME": "sud1nls.pages.dev"
-    }
+{
+  "owner": {
+    "username": "xdluru"
+  },
+  "records": {
+    "CNAME": "sud1nls.pages.dev"
+  }
 }

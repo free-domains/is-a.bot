@@ -1,8 +1,8 @@
 {
-    "owner": {
-        "username": "pokoke-01"
-    },
-    "records": {
-        "CNAME": "pokoke-01.github.io"
-    }
+  "owner": {
+    "username": "pokoke-01"
+  },
+  "records": {
+    "CNAME": "pokoke-01.github.io"
+  }
 }

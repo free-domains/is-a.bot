@@ -1,9 +1,9 @@
 {
-    "owner": {
-        "username": "ryotagtagtag-wq",
-        "email": "game-ryo@ryopc.org"
-    },
-    "records": {
-        "CNAME": "kai-site-1v2.pages.dev"
-    }
+  "owner": {
+    "username": "ryotagtagtag-wq",
+    "email": "game-ryo@ryopc.org"
+  },
+  "records": {
+    "CNAME": "kai-site-1v2.pages.dev"
+  }
 }
