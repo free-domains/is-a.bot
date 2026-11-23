@@ -1,8 +1,8 @@
 {
-  "owner": {
-    "username": "s4chdev"
-  },
-  "records": {
-    "CNAME": "f56a2d7e779e9064.vercel-dns-017.com"
-  }
+    "owner": {
+        "username": "s4chdev"
+    },
+    "records": {
+        "CNAME": "everyone-c7x.pages.dev"
+    }
 }
