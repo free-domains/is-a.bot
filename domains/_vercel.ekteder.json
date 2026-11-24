@@ -1,9 +1,10 @@
+
 {
     "owner": {
         "username": "Ekteder",
         "email": "iktidarsanglap01@gmail.com"
     },
     "records": {
-        "TXT": ["vc-domain-verify=ekteder.is-a.bot,c6b1610f0ec38ce91aab"]
+        "TXT": ["vc-domain-verify=ekteder.is-a.bot,79bba024f9038cf7a4d9]
     }
 }
